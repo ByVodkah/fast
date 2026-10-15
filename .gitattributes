@@ -1,0 +1,3 @@
+# Preserva os bytes de todos os arquivos, inclusive binarios, em qualquer pasta.
+# Desativa a conversao automatica de finais de linha do Git.
+* -text
