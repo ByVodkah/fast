@@ -1,7 +1,0 @@
-6
-weapon		320 wpnhud/sbmine_ammo	0	0	24	24
-weapon		640 wpnhud/sbmine_ammo	0	0	24	24
-weapon_s	320 wpnhud/sbmine_ammo	0	0	24	24
-weapon_s	640 wpnhud/sbmine_ammo	0	0	24	24
-ammo		320 wpnhud/sbmine_ammo	0	0	24	24
-ammo		640 wpnhud/sbmine_ammo	0	0	24	24
