@@ -1,4 +1,5 @@
-3
+4
 weapon			640 wpnhud/m1887	0	0	170	45
 weapon_s		640 wpnhud/m1887	0	0	170	45
 ammo			640 wpnhud/640hud7	0	72	24	24
+crosshair		640 wpnhud/shotgun_crosshair	0	0	64	64
